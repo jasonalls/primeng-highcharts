@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { Component, OnInit } from '@angular/core';
 import { Car } from '../app/domain/car';
 import { CarService } from '../app/services/carservice';
@@ -107,3 +108,15 @@ public chartOptions: any = {
     }
 
 }
+=======
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.less']
+})
+export class AppComponent {
+  title = 'PrimeNG-ChartJS';
+}
+>>>>>>> 59432e2... initial commit

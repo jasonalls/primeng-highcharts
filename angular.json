@@ -28,8 +28,12 @@
               "src/assets"
             ],
             "styles": [
+<<<<<<< HEAD
               "src/styles.less",  
               "./node_modules/primeicons/primeicons.css"
+=======
+              "src/styles.less"
+>>>>>>> 59432e2... initial commit
             ],
             "scripts": []
           },
@@ -124,6 +128,7 @@
           }
         }
       }
+<<<<<<< HEAD
     }
   },
   "defaultProject": "PrimeNG-ChartJS",
@@ -131,3 +136,8 @@
     "analytics": false
   }
 }
+=======
+    }},
+  "defaultProject": "PrimeNG-ChartJS"
+}
+>>>>>>> 59432e2... initial commit

@@ -3,8 +3,16 @@ import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [];
 
+<<<<<<< HEAD
 /*@NgModule({
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]
 })
 export class AppRoutingModule { }*/
+=======
+@NgModule({
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+export class AppRoutingModule { }
+>>>>>>> 59432e2... initial commit
